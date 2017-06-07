@@ -1,0 +1,41 @@
+{
+	"artigos": [
+		{
+		"dia":"15/8",
+		"seção": "FORMAÇÃO DE PREÇOS I",
+		"grupo": "1",
+		"cod": "6459",
+		"artigo": "FATORES QUE DETERMINAM A ADOÇÃO DE FORMAS PLURAIS DE GOVERNANÇA POR PECUARISTAS DE CORTE DO ESTADO DE SÃO  PAULO",
+		"autores": [
+			{
+			"nome": "MARCELO JOSÉ CARRER¹",
+			"faculdade": "¹IFSP SÃO CARLOS"
+			}
+		],
+		"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+	},
+
+	{
+		"dia":"15/8",
+		"seção": "FORMAÇÃO DE PREÇOS I",
+		"grupo": "1",
+		"cod": "6715",
+		"artigo": "MUDANÇAS RECENTES NA FORMAÇÃO DE PREÇOS NO MERCADO BRASILEIRO DE MILHO: ANÁLISE DE RELAÇÕES ENTRE REGIÕES DOMÉSTICAS E COM O MERCADO EXTERNO",
+		"autores": [
+			{
+			"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "ANDRÉ LUIS RAMOS SANCHES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+			"faculdade": "ESALQ/USP"
+			}
+		],
+		"debatedor": "REISOLI BENDER FILHO"
+	}
+]
+}

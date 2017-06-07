@@ -1,0 +1,18 @@
+<ion-view>
+	<ion-nav-title>{{resultado}}</ion-nav-title>
+	<ion-content>
+    	<div class="card" ng-repeat="item in data | filterTrabalho:titulo">
+    		<div class="item item-divider">
+    			{{item.titulo}}
+    		</div>
+    		<div class="item item-text-wrap">
+    			<strong>Título: </strong>{{item.titulo}}<br>
+                <strong>Seção: </strong>{{item.secao}}<br>
+                <strong>Dia: </strong>{{item.dia | date:'dd/MM/yyyy'}}<br>
+                <strong>Horário: </strong>{{item.horainicio}} - {{item.horatermino}}<br>
+                <strong>Grupo: </strong>{{item.grupo}}<br>
+                <strong>Debatedor: </strong>{{item.debatedor}}
+    		</div>
+    	</div>
+  </ion-content>
+</ion-view>

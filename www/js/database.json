@@ -1,0 +1,155 @@
+{
+	"artigos": [
+		{
+		"dia":"1471230000000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "FRMAÇÃO DE PREÇOS I",
+		"grupo": "1",
+		"cod": "6459",
+		"titulo": "FATORES QUE DETERMINAM A ADOÇÃO DE FORMAS PLURAIS DE GOVERNANÇA POR PECUARISTAS DE CORTE DO ESTADO DE SÃO  PAULO",
+		"autores": [
+			{
+			"nome": "MARCELO JOSÉ CARRER¹",
+			"faculdade": "¹IFSP SÃO CARLOS"
+			}
+		],
+		"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+	},
+
+	{
+		"dia":"1473908400000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "FORMAÇÃO DE PREÇOS I",
+		"grupo": "1",
+		"cod": "6715",
+		"titulo": "MUDANÇAS RECENTES NA FORMAÇÃO DE PREÇOS NO MERCADO BRASILEIRO DE MILHO: ANÁLISE DE RELAÇÕES ENTRE REGIÕES DOMÉSTICAS E COM O MERCADO EXTERNO",
+		"autores": [
+			{
+			"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "ANDRÉ LUIS RAMOS SANCHES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+			"faculdade": "ESALQ/USP"
+			}
+		],
+		"debatedor": "REISOLI BENDER FILHO"
+	}
+],
+	"eventos": [
+		{
+		"dia":"1471230000000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "SEÇÃO EVENTO I",
+		"grupo": "1",
+		"cod": "6459",
+		"titulo": "EVENTO 1",
+		"autores": [
+			{
+			"nome": "MARCELO JOSÉ CARRER¹",
+			"faculdade": "¹IFSP SÃO CARLOS"
+			}
+		],
+		"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+	},
+
+	{
+		"dia":"1473908400000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "SEÇÃO EVENTO I",
+		"grupo": "1",
+		"cod": "6715",
+		"titulo": "EVENTO 2",
+		"autores": [
+			{
+			"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "ANDRÉ LUIS RAMOS SANCHES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+			"faculdade": "ESALQ/USP"
+			}
+		],
+		"debatedor": "REISOLI BENDER FILHO"
+	}
+],
+	"posteres": [
+		{
+		"dia":"1471230000000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "SEÇÃO POSTER I",
+		"grupo": "1",
+		"cod": "6459",
+		"titulo": "POSTER 1",
+		"autores": [
+			{
+			"nome": "MARCELO JOSÉ CARRER¹",
+			"faculdade": "¹IFSP SÃO CARLOS"
+			}
+		],
+		"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+	},
+
+	{
+		"dia":"1473908400000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "SEÇÃO POSTER 2",
+		"grupo": "1",
+		"cod": "6715",
+		"titulo": "POSTER 2",
+		"autores": [
+			{
+			"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "ANDRÉ LUIS RAMOS SANCHES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+			"faculdade": "ESALQ/USP"
+			}
+		],
+		"debatedor": "REISOLI BENDER FILHO"
+	},
+	{
+		"dia":"1473908400000",
+		"horainicio":"15h",
+		"horatermino":"16h30",
+		"secao": "SEÇÃO POSTER 2",
+		"grupo": "1",
+		"cod": "6715",
+		"titulo": "POSTER 3",
+		"autores": [
+			{
+			"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "ANDRÉ LUIS RAMOS SANCHES",
+			"faculdade": "ESALQ/USP"
+			},
+			{
+			"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+			"faculdade": "ESALQ/USP"
+			}
+		],
+		"debatedor": "REISOLI BENDER FILHO"
+	}
+]
+}
