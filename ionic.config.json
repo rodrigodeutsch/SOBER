@@ -1,4 +1,13 @@
 {
-  "name": "aluraCar",
-  "app_id": ""
+  "name": "SOBER",
+  "app_id": "com.ufsm.sober",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
 }

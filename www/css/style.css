@@ -3,3 +3,77 @@
     background-color: #FFFFFF;
     color: #f4f4f4;
 }
+
+#fhm_page .scroll,
+.fhm_container {
+  position:absolute;
+  top:2px;
+  right:2px;
+  left:2px;
+  bottom:2px;
+}
+
+.fhm_row {
+  /* position: absolute; */
+  height: 20%;
+  left:2px;
+  right:2px;
+  background-color:#FF0000;
+  clear:both;
+}
+.fhm_item {
+  height: 100%;
+  width:49.95%;
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
+  float:left;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 250px;
+  position:relative
+
+  border-radius: 10px;
+  
+
+  -webkit-background-clip: padding-box; 
+-moz-background-clip: padding; 
+background-clip: padding-box;
+
+}
+#style_block{
+
+    display: block;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.blockfixer{
+  { 
+  position:absolute; 
+  width:100%;
+  height:100%;
+  top:0;
+  left: 0;
+
+  z-index: 1;
+}
+#button_border{
+  margin-right: 2px;
+  margin-left: 2px; 
+}
+#buttons_space{
+  height: 5px;
+}
+.gradiente {
+  background: red; 
+  background: -webkit-radial-gradient(white, yellow, green); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(white, yellow, green); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(white, yellow, green); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(white, yellow, green); /* Standard syntax */
+}
+.grad {
+  background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff),     color-stop(100%, #e5eef1));
+}
+.shadow{
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 1.4), 0 10px 50px 0 rgba(0, 0, 0, 0.12), 0 30px 10px -20px rgba(0, 0, 0, 0.2);
+}

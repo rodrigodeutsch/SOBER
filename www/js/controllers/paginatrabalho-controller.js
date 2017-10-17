@@ -31,4 +31,9 @@ angular.module('starter')
 			}
 	return lista;
 	}
+})
+.filter('filterAutores', function(){
+	//return fucntion(items, ){
+	//	var lista = [];
+	//}
 });

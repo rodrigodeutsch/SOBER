@@ -27,7 +27,9 @@ angular.module('starter')
 				if(items.artigos[contArtigos].titulo.indexOf(filtro) != -1){
 					lista.push(items.artigos[contArtigos].titulo);
 				}
-				
+				if(items.artigos[contArtigos].local.indexOf(filtro) != -1){
+					lista.push(items.artigos[contArtigos].local);
+				}
 				if(items.artigos[contArtigos].secao.indexOf(filtro) != -1){
 					lista.push(items.artigos[contArtigos].secao);	
 				}

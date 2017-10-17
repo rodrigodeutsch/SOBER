@@ -1,11 +1,34 @@
 <ion-view>	
 	<ion-nav-title>SOBER</ion-nav-title>
+			<!--
 	<ion-content>
 		<ion-list>
 			<ion-item href="#/busca">Buscar</ion-item>
 			<ion-item href="#/eventosGerais">Eventos Gerais</ion-item>
 			<ion-item href="#/apresentacoes">Apresentações</ion-item>
 			<ion-item href="#/organizadores">Organizadores</ion-item>
+			-->
+			<ion-content scroll="false" class="grad">
+			<div style="margin-top: 60px;"></div>
+        <div class="button-bar shadow">
+ 			<button ng-click="go('busca')" class="button button-positive">
+  			<strong>Buscar</strong>
+			</button>
+  			<button ng-click="go('eventosGerais')" class="button button-positive">
+  				<strong>Eventos Gerais</strong>
+			</button>
+		</div>
+		 <div class="button-bar">
+ 			<button ng-click="go('apresentacoes')" class="button button-positive">
+  			<strong>Apresentações</strong>
+			</button>
+
+  			<button ngclick="go('organizadores')" class="button button-positive">
+  				<strong>Organizadores</strong>
+			</button>
+		</div>
+      </div>
+      </div>
 		</ion-list>
 	</ion-content>
 </ion-view>

@@ -1,0 +1,12 @@
+<ion-view>
+	<ion-nav-title>{{resultado}}</ion-nav-title>
+	<ion-content>
+    	<ion-list>
+    		<ion-item href="#/paginaTrabalho/{{item.titulo}}" ng-repeat="item in data | buscaSecundaria:resultado">
+            <strong>Título:</strong> {{item.titulo}}<br>
+            <strong>Seção:</strong> {{item.secao}}<br>
+            <strong>Dia:</strong> {{item.dia | date:'dd/MM/yyyy'}}
+            </ion-item>
+    	</ion-list>
+  </ion-content>
+</ion-view>

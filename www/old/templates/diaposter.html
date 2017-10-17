@@ -1,0 +1,11 @@
+<ion-view>
+	<ion-nav-title>{{diaPoster | date:'dd/MM/yyyy'}}</ion-nav-title>
+	<ion-content>
+		<ion-list>
+			<ion-item href="#/paginaTrabalho/{{item.titulo}}/{{item.secao}}/{{item.dia}}" ng-repeat="item in data.posteres | filtroDia: diaPoster">
+				<strong>Título:</strong> {{item.titulo}}<br>
+				<strong>Seção:</strong> {{item.secao}} 
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

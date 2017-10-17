@@ -1,0 +1,286 @@
+{
+	"artigos": [{
+			"dia": "1501470000000",
+			"hora": "08h30",
+			"secao": "FORMAÇÃO DE PREÇOS I",
+			"grupo": "1. COMERCIALIZAÇÃO, MERCADOS E PREÇOS",
+			"cod": "6459",
+			"local": "CCSH-PRÉDIO 74C-2 ANDAR-SALA 4226",
+			"titulo": "CAUSALIDADE E ELASTICIDADE DE TRANSMISSÃO DE PREÇO DE SUÍNOS EM TERMINAÇÃO ENTRE MERCADOS BRASILEIROS",
+			"autores": [{
+					"nome": "UELLINGTON CORRÊA",
+					"faculdade": "UFLA"
+				},
+				{
+					"nome": "JOSÉ WILLER DO PRADO",
+					"faculdade": "UFLA"
+				},
+				{
+					"nome": "BRUNA PONTARA VILAS BOAS RIBEIRO",
+					"faculdade": "UFLA"
+				},
+				{
+					"nome": "BRYAN WILLIAM ALVARENGA CORRÊA",
+					"faculdade": "IFMG - CAMPUS BAMBUÍ - BRASIL"
+				}
+			],
+			"debatedor": "LUCCA SIMEONI PAVAN"
+		},
+
+		{
+			"dia": "1501470000000",
+			"hora": "9h",
+			"secao": "FORMAÇÃO DE PREÇOS I",
+			"grupo": "1. COMERCIALIZAÇÃO, MERCADOS E PREÇOS",
+			"cod": "6715",
+			"local": "CCSH-PRÉDIO 74C-2 ANDAR-SALA 4226",
+			"titulo": "TRANSMISSÕES DE VOLATILIDADE DE PREÇOS ENTRE COMMODITIES AGRÍCOLAS BRASILEIRAS",
+			"autores": [{
+					"nome": "LUCCA SIMEONI PAVAN",
+					"faculdade": "UNIVERSIDADE FEDERAL DO PARANÁ, BRASIL"
+				},
+				{
+					"nome": "JOÃO CARLOS DE CARVALHO",
+					"faculdade": "UNIVERSIDADE FEDERAL DO PARANÁ, BRASIL"
+				},
+				{
+					"nome": "MARCOS MINORU HASEGAWA",
+					"faculdade": "UNIVERSIDADE FEDERAL DO PARANÁ, BRASIL"
+				}
+			],
+			"debatedor": "ELEN PRESOTTO"
+		},
+		{
+			"dia": "1501470000000",
+			"hora": "09h30",
+			"secao": "FORMAÇÃO DE PREÇOS I",
+			"grupo": "1. COMERCIALIZAÇÃO, MERCADOS E PREÇOS",
+			"cod": "6459",
+			"local": "CCSH-PRÉDIO 74C-2 ANDAR-SALA 4226",
+			"titulo": "TRANSMISSÃO DE PREÇO ENTRE A SOJA E O ÓLEO BRUTO DE SOJA (1996-2016)",
+			"autores": [{
+					"nome": "ELEN PRESOTTO",
+					"faculdade": "UFSM"
+				},
+				{
+					"nome": "CLAÍLTON ATAÍDES DE FREITAS",
+					"faculdade": "UFSM"
+				},
+				{
+					"nome": "DENISE GOMES DE GOMES",
+					"faculdade": "UFSM"
+				}
+			],
+			"debatedor": "FELIPE ARAUJO OLIVEIRA"
+		},
+		{
+			"dia": "1501470000000",
+			"hora": "10h",
+			"secao": "FORMAÇÃO DE PREÇOS I",
+			"grupo": "1. COMERCIALIZAÇÃO, MERCADOS E PREÇOS",
+			"cod": "6459",
+			"local": "CCSH-PRÉDIO 74C-2 ANDAR-SALA 4226",
+			"titulo": "VOLATILITY TRANSMISSION BETWEEN BRAZIL, COMMODITIES AND AMERICAN MARKET: WHICH INFORMATION MATTERS TO MARKET RISK SPREADING TO IN BRAZIL?",
+			"autores": [{
+					"nome": "FELIPE ARAUJO OLIVEIRA",
+					"faculdade": "UFPB, BRASIL"
+				},
+				{
+					"nome": "SINEZIO FERNANDES MAIA",
+					"faculdade": "UFPB, BRASIL"
+				}
+			],
+			"debatedor": "UELLINGTON CORRÊA"
+		}
+
+	],
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"eventos": [{
+			"dia": "1471230000000",
+			"horainicio": "15h",
+			"horatermino": "16h30",
+			"secao": "SEÇÃO EVENTO I",
+			"grupo": "1",
+			"cod": "6459",
+			"titulo": "EVENTO 1",
+			"autores": [{
+				"nome": "MARCELO JOSÉ CARRER¹",
+				"faculdade": "¹IFSP SÃO CARLOS"
+			}],
+			"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+		},
+
+		{
+			"dia": "1473908400000",
+			"horainicio": "15h",
+			"horatermino": "16h30",
+			"secao": "SEÇÃO EVENTO I",
+			"grupo": "1",
+			"cod": "6715",
+			"titulo": "EVENTO 2",
+			"autores": [{
+					"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "ANDRÉ LUIS RAMOS SANCHES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+					"faculdade": "ESALQ/USP"
+				}
+			],
+			"debatedor": "REISOLI BENDER FILHO"
+		}
+	],
+	"posteres": [{
+			"dia": "1471230000000",
+			"horainicio": "15h",
+			"horatermino": "16h30",
+			"secao": "SEÇÃO POSTER I",
+			"grupo": "1",
+			"cod": "6459",
+			"titulo": "POSTER 1",
+			"autores": [{
+				"nome": "MARCELO JOSÉ CARRER¹",
+				"faculdade": "¹IFSP SÃO CARLOS"
+			}],
+			"debatedor": "LUCILIO ROGERIO APARECIDO ALVES"
+		},
+
+		{
+			"dia": "1473908400000",
+			"horainicio": "15h",
+			"horatermino": "16h30",
+			"secao": "SEÇÃO POSTER 2",
+			"grupo": "1",
+			"cod": "6715",
+			"titulo": "POSTER 2",
+			"autores": [{
+					"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "ANDRÉ LUIS RAMOS SANCHES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+					"faculdade": "ESALQ/USP"
+				}
+			],
+			"debatedor": "REISOLI BENDER FILHO"
+		},
+		{
+			"dia": "1473908400000",
+			"horainicio": "15h",
+			"horatermino": "16h30",
+			"secao": "SEÇÃO POSTER 2",
+			"grupo": "1",
+			"cod": "6715",
+			"titulo": "POSTER 3",
+			"autores": [{
+					"nome": "LUCILIO ROGERIO APARECIDO ALVES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "ANDRÉ LUIS RAMOS SANCHES",
+					"faculdade": "ESALQ/USP"
+				},
+				{
+					"nome": "GERALDO SANTANNA DE CAMARGO BARROS",
+					"faculdade": "ESALQ/USP"
+				}
+			],
+			"debatedor": "REISOLI BENDER FILHO"
+		}
+	]
+}
